@@ -128,3 +128,6 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+# Ignore HTML and assets for local use
+*.html
+/path/to/directory/Exampleoutput.png
