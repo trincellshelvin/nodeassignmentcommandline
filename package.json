@@ -2,7 +2,8 @@
   "name": "nodeassignmentcommandline",
   "version": "1.0.0",
   "description": "assignment about node packages",
-  "main": "index.js",
+  "main": "opinionPoll.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
